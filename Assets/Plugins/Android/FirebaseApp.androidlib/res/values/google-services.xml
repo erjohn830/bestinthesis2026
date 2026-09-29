@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">774078773253</string>
+  <string name="google_storage_bucket" translatable="false">bestinthesis-ef4e4.firebasestorage.app</string>
+  <string name="project_id" translatable="false">bestinthesis-ef4e4</string>
+  <string name="google_api_key" translatable="false">AIzaSyAwgH59O035saIV5W0B1sNyo6iwFwH4aBU</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAwgH59O035saIV5W0B1sNyo6iwFwH4aBU</string>
+  <string name="google_app_id" translatable="false">1:774078773253:android:668e3f8573776f069e046c</string>
+</resources>

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login/Login.unity
+    guid: 22d44c4aa1d3e9b4d888ed3500c8edaa
+  - enabled: 1
+    path: Assets/Scenes/Menu/Main.unity
+    guid: d1b4d3b80b6775e4e813c6216d03f837
+  - enabled: 1
+    path: Assets/Scenes/SinglePlayerGame/LuksongBakaGame.unity
+    guid: 0dc100f5408268a438fa15f9a97b1f0b
+  - enabled: 1
+    path: Assets/Scenes/SinglePlayerGame/HulihinBiik.unity
+    guid: d2d01451e1a78ce48b1732927a1f3249
+  - enabled: 1
+    path: Assets/Scenes/SinglePlayerGame/Sipa.unity
+    guid: bdfedb31ea1ae824da3496a6bdc5a84b
+  - enabled: 1
+    path: Assets/Scenes/SinglePlayerGame/Palosebo.unity
+    guid: 399a40bf1ff329c44a18eae4598232b8
+  - enabled: 1
+    path: Assets/Scenes/Story/StoryBook_Sipa.unity
+    guid: ad38d1f7bb055e241b5a3201396866b9
+  - enabled: 1
+    path: Assets/Scenes/Story/StoryBook_Palosebo.unity
+    guid: 285273190f8de8546a777c72f697317d
+  - enabled: 1
+    path: Assets/Scenes/Story/StoryBook_LuksongBaka.unity
+    guid: 595eebd286644a6409ddc049cc024d43
+  - enabled: 1
+    path: Assets/Scenes/Story/StoryBook_HulihinBiik.unity
+    guid: 801daa44f0322f24881df36b6427a335
+  - enabled: 1
+    path: Assets/Scenes/MultiplayerGame/Patintero.unity
+    guid: 6d94cbacef5ae7c4992d06b11a810cd3
+  - enabled: 1
+    path: Assets/Scenes/MultiplayerGame/SekyuBase.unity
+    guid: b92b73c5f0dbf4e48bca3e95b711c3b1
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
